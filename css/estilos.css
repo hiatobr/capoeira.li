@@ -1,6 +1,7 @@
 @charset "UTF-8";
 img.logo {
 	max-width:256px;
+	max-height:256px;
 }
 img.featurette-image {
 	max-height:500px;
