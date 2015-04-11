@@ -12,3 +12,7 @@ img.featurette-image {
 	background-color:#f2f2f2;
 	border-radius: 6px;
 }
+img.img-circle {
+	box-shadow:inset 0em 0em 1em 0.1em rgba(0,0,0,0.5);
+}
+
